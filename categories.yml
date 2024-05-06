@@ -70,10 +70,6 @@ dianro:
   parent: "tianxuangongyi"
   category-name: "&6&l海曼科技院 &7- &a&l电容"
   category-item: SKULL5584432af6f382167120258d1eee8c87c6e75d9e479e7b0d4c7b6ad48cfeef
-slime_customizer_qiu:
-  parent: "tianxuangongyi"
-  category-name: "&6&l海曼科技院 &7- &f&l波兰球"
-  category-item: SKULL921b2af8d2322282fce4a1aa4f257a52b68e27eb334f4a181fd976bae6d8eb
 slime_customizer_food:
   parent: "tianxuangongyi"
   category-name: "&6&l海曼科技院 &7- &e&l食物"
